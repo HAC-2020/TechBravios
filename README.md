@@ -1,3 +1,2 @@
-# TechBravios
-This is the initiated README for team TechBravios, Please edit this as you build your project
+# Seat_maangement_system_for_hospitals_and_patient
 
